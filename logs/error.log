@@ -1,0 +1,70 @@
+[22-Nov-2023 18:28:12 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 18:28:12 America/Lima] PHP Fatal error:  Uncaught Error: Class 'Plantilla_Controller' not found in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:29:49 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 18:29:49 America/Lima] PHP Fatal error:  Uncaught Error: Class 'Plantilla_Controller' not found in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php:11
+Stack trace:
+#0 {main}
+  thrown in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 11
+[22-Nov-2023 18:34:08 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 18:34:08 America/Lima] PHP Warning:  require_once(controller/Plantilla_Controllerphp): failed to open stream: No such file or directory in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:34:08 America/Lima] PHP Fatal error:  require_once(): Failed opening required 'controller/Plantilla_Controllerphp' (include_path='D:\xampp_3\php\PEAR') in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:34:13 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 18:34:13 America/Lima] PHP Warning:  require_once(controller/Plantilla_Controllerphp): failed to open stream: No such file or directory in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:34:13 America/Lima] PHP Fatal error:  require_once(): Failed opening required 'controller/Plantilla_Controllerphp' (include_path='D:\xampp_3\php\PEAR') in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:35:53 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 18:35:53 America/Lima] PHP Warning:  require_once(controller/Plantilla_Controllerphp): failed to open stream: No such file or directory in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:35:53 America/Lima] PHP Fatal error:  require_once(): Failed opening required 'controller/Plantilla_Controllerphp' (include_path='D:\xampp_3\php\PEAR') in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:35:54 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 18:35:54 America/Lima] PHP Warning:  require_once(controller/Plantilla_Controllerphp): failed to open stream: No such file or directory in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:35:54 America/Lima] PHP Fatal error:  require_once(): Failed opening required 'controller/Plantilla_Controllerphp' (include_path='D:\xampp_3\php\PEAR') in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:35:55 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 18:35:55 America/Lima] PHP Warning:  require_once(controller/Plantilla_Controllerphp): failed to open stream: No such file or directory in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:35:55 America/Lima] PHP Fatal error:  require_once(): Failed opening required 'controller/Plantilla_Controllerphp' (include_path='D:\xampp_3\php\PEAR') in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:35:55 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 18:35:55 America/Lima] PHP Warning:  require_once(controller/Plantilla_Controllerphp): failed to open stream: No such file or directory in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:35:55 America/Lima] PHP Fatal error:  require_once(): Failed opening required 'controller/Plantilla_Controllerphp' (include_path='D:\xampp_3\php\PEAR') in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:35:56 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 18:35:56 America/Lima] PHP Warning:  require_once(controller/Plantilla_Controllerphp): failed to open stream: No such file or directory in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:35:56 America/Lima] PHP Fatal error:  require_once(): Failed opening required 'controller/Plantilla_Controllerphp' (include_path='D:\xampp_3\php\PEAR') in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:35:57 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 18:35:57 America/Lima] PHP Warning:  require_once(controller/Plantilla_Controllerphp): failed to open stream: No such file or directory in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:35:57 America/Lima] PHP Fatal error:  require_once(): Failed opening required 'controller/Plantilla_Controllerphp' (include_path='D:\xampp_3\php\PEAR') in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:36:05 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 18:36:05 America/Lima] PHP Warning:  require_once(controller/Plantilla_Controllerphp): failed to open stream: No such file or directory in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:36:05 America/Lima] PHP Fatal error:  require_once(): Failed opening required 'controller/Plantilla_Controllerphp' (include_path='D:\xampp_3\php\PEAR') in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:36:07 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 18:36:07 America/Lima] PHP Warning:  require_once(controller/Plantilla_Controllerphp): failed to open stream: No such file or directory in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:36:07 America/Lima] PHP Fatal error:  require_once(): Failed opening required 'controller/Plantilla_Controllerphp' (include_path='D:\xampp_3\php\PEAR') in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:36:07 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 18:36:07 America/Lima] PHP Warning:  require_once(controller/Plantilla_Controllerphp): failed to open stream: No such file or directory in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:36:07 America/Lima] PHP Fatal error:  require_once(): Failed opening required 'controller/Plantilla_Controllerphp' (include_path='D:\xampp_3\php\PEAR') in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:36:08 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 18:36:08 America/Lima] PHP Warning:  require_once(controller/Plantilla_Controllerphp): failed to open stream: No such file or directory in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:36:08 America/Lima] PHP Fatal error:  require_once(): Failed opening required 'controller/Plantilla_Controllerphp' (include_path='D:\xampp_3\php\PEAR') in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:36:20 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 18:36:20 America/Lima] PHP Warning:  require_once(controller/Plantilla_Controllerphp): failed to open stream: No such file or directory in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:36:20 America/Lima] PHP Fatal error:  require_once(): Failed opening required 'controller/Plantilla_Controllerphp' (include_path='D:\xampp_3\php\PEAR') in D:\xampp_3\htdocs\Sist_Indp\HotelGrau_Sistema\index.php on line 10
+[22-Nov-2023 18:37:15 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 18:39:45 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 18:41:34 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 18:44:50 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 18:45:36 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 18:46:38 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 18:47:49 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 18:51:13 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 18:52:28 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 19:02:40 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 19:03:03 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 19:06:54 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 19:07:53 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 19:09:19 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 19:10:00 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 19:10:09 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 19:10:19 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 19:12:19 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 19:12:34 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 19:13:01 America/Lima] Inicio de la Aplicacion
+[22-Nov-2023 19:13:39 America/Lima] Inicio de la Aplicacion
